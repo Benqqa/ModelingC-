@@ -1,0 +1,10 @@
+Z:\modelInterviu\modelInterviu\obj\Debug\modelInterviu.Form1.resources
+Z:\modelInterviu\modelInterviu\obj\Debug\modelInterviu.Properties.Resources.resources
+Z:\modelInterviu\modelInterviu\obj\Debug\modelInterviu.csproj.GenerateResource.cache
+Z:\modelInterviu\modelInterviu\obj\Debug\modelInterviu.csproj.CoreCompileInputs.cache
+Z:\modelInterviu\modelInterviu\bin\Debug\modelInterviu.exe.config
+Z:\modelInterviu\modelInterviu\bin\Debug\modelInterviu.exe
+Z:\modelInterviu\modelInterviu\bin\Debug\modelInterviu.pdb
+Z:\modelInterviu\modelInterviu\obj\Debug\modelInterviu.exe
+Z:\modelInterviu\modelInterviu\obj\Debug\modelInterviu.pdb
+Z:\modelInterviu\modelInterviu\obj\Debug\modelInterviu.csprojAssemblyReference.cache
